@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KDZBABUSHKIN3/1.0.0": {
+        "dependencies": {
+          "SentenceLib": "1.0.0"
+        },
+        "runtime": {
+          "KDZBABUSHKIN3.dll": {}
+        }
+      },
+      "SentenceLib/1.0.0": {
+        "runtime": {
+          "SentenceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KDZBABUSHKIN3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SentenceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

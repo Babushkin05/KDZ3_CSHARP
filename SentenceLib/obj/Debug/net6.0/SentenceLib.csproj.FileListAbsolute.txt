@@ -1,0 +1,12 @@
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/bin/Debug/net6.0/SentenceLib.deps.json
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/bin/Debug/net6.0/SentenceLib.dll
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/bin/Debug/net6.0/SentenceLib.pdb
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.csproj.AssemblyReference.cache
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.AssemblyInfoInputs.cache
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.AssemblyInfo.cs
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.csproj.CoreCompileInputs.cache
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.dll
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/refint/SentenceLib.dll
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/SentenceLib.pdb
+/Users/vovababuskin/Projects/KDZBABUSHKIN3/SentenceLib/obj/Debug/net6.0/ref/SentenceLib.dll
